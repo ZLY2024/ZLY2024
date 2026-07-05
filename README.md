@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm a social science student trying to do something interesting on Github.
 
 <!--
 **ZLY2024/ZLY2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
